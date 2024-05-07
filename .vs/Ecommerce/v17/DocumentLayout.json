@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1AF73B-E956-4AAE-8982-8F8A5F87E698}|Ecommerce\\Ecommerce.csproj|c:\\users\\rommel hortel\\desktop\\database\\ecommerce\\ecommerce\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC1AF73B-E956-4AAE-8982-8F8A5F87E698}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1AF73B-E956-4AAE-8982-8F8A5F87E698}|Ecommerce\\Ecommerce.csproj|c:\\users\\rommel hortel\\desktop\\database\\ecommerce\\ecommerce\\user\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC1AF73B-E956-4AAE-8982-8F8A5F87E698}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1AF73B-E956-4AAE-8982-8F8A5F87E698}|Ecommerce\\Ecommerce.csproj|c:\\users\\rommel hortel\\desktop\\database\\ecommerce\\ecommerce\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{BC1AF73B-E956-4AAE-8982-8F8A5F87E698}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.master",
+              "DocumentMoniker": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\Ecommerce\\User\\User.master",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\User.master",
+              "ToolTip": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\Ecommerce\\User\\User.master",
+              "RelativeToolTip": "Ecommerce\\User\\User.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T17:43:18.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.aspx",
+              "DocumentMoniker": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\Ecommerce\\User\\User.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\User.aspx",
+              "ToolTip": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\Ecommerce\\User\\User.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T17:41:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\Ecommerce\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Default.aspx",
+              "ToolTip": "C:\\Users\\Rommel Hortel\\Desktop\\DATABASE\\Ecommerce\\Ecommerce\\User\\Default.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T17:38:17.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
